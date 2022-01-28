@@ -1,6 +1,6 @@
 # cs-420x-assignment2
 
-If you run by downloading, just clicking assignment2.html should work.
+If you run by downloading, just clicking assignment2.html should work. Or you can just go [here](https://bjaubuchon.github.io/cs-420x-assignment2/) to run it online.
 
 Description of Sliders:
 
